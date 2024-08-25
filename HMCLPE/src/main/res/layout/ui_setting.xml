@@ -169,61 +169,63 @@
                 android:background="@color/colorPureBlack"/>
 
             <LinearLayout
-                android:layout_marginTop="8dp"
-                android:padding="10dp"
-                android:background="@drawable/launcher_button_parent"
-                android:focusable="true"
-                android:clickable="true"
                 android:id="@+id/start_help_ui"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal">
+                android:layout_marginTop="8dp"
+                android:background="@drawable/launcher_button_parent"
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:visibility="gone">
 
                 <ImageView
-                    android:layout_marginStart="10dp"
-                    android:layout_gravity="center"
                     android:layout_width="22dp"
                     android:layout_height="22dp"
-                    android:background="@drawable/ic_outline_help_outline_black"/>
+                    android:layout_gravity="center"
+                    android:layout_marginStart="10dp"
+                    android:background="@drawable/ic_outline_help_outline_black" />
 
                 <TextView
-                    android:singleLine="true"
-                    android:layout_gravity="center"
-                    android:layout_marginStart="18dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="18dp"
+                    android:singleLine="true"
                     android:text="@string/setting_ui_help"
-                    android:textSize="14sp"
-                    android:textColor="@color/colorPureBlack"/>
+                    android:textColor="@color/colorPureBlack"
+                    android:textSize="14sp" />
 
             </LinearLayout>
 
             <LinearLayout
-                android:padding="10dp"
-                android:background="@drawable/launcher_button_parent"
-                android:focusable="true"
-                android:clickable="true"
                 android:id="@+id/start_feedback_ui"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal">
+                android:background="@drawable/launcher_button_parent"
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:visibility="gone">
 
                 <ImageView
-                    android:layout_marginStart="10dp"
-                    android:layout_gravity="center"
                     android:layout_width="22dp"
                     android:layout_height="22dp"
-                    android:background="@drawable/ic_outline_feedback_black"/>
+                    android:layout_gravity="center"
+                    android:layout_marginStart="10dp"
+                    android:background="@drawable/ic_outline_feedback_black" />
 
                 <TextView
-                    android:singleLine="true"
-                    android:layout_gravity="center"
-                    android:layout_marginStart="18dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="18dp"
+                    android:singleLine="true"
                     android:text="@string/setting_ui_feedback"
-                    android:textSize="14sp"
-                    android:textColor="@color/colorPureBlack"/>
+                    android:textColor="@color/colorPureBlack"
+                    android:textSize="14sp" />
 
             </LinearLayout>
 

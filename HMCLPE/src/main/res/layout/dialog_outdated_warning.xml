@@ -6,6 +6,8 @@
     android:layout_height="wrap_content">
 
     <TextView
+        android:fontFamily="@font/poppinsbold"
+        android:textFontWeight="800"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="@dimen/text_size_big"
@@ -14,6 +16,8 @@
         android:text="@string/dialog_outdated_warning_title"/>
 
     <TextView
+        android:fontFamily="@font/poppinsbold"
+        android:textFontWeight="800"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
@@ -28,6 +32,8 @@
         android:orientation="horizontal">
 
         <CheckBox
+            android:fontFamily="@font/poppinsbold"
+            android:textFontWeight="800"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
@@ -40,31 +46,8 @@
             android:layout_weight="1"/>
 
         <Button
-            android:singleLine="true"
-            android:textAllCaps="false"
-            android:layout_width="60dp"
-            android:layout_height="40dp"
-            android:gravity="center"
-            android:text="Pojav"
-            android:textSize="15sp"
-            android:textColor="@color/colorLinkBlue"
-            android:background="@drawable/launcher_button_parent"
-            android:id="@+id/pojav"/>
-
-        <Button
-            android:layout_marginStart="10dp"
-            android:singleLine="true"
-            android:textAllCaps="false"
-            android:layout_width="60dp"
-            android:layout_height="40dp"
-            android:gravity="center"
-            android:text="FCL"
-            android:textSize="15sp"
-            android:textColor="@color/colorLinkBlue"
-            android:background="@drawable/launcher_button_parent"
-            android:id="@+id/fcl"/>
-
-        <Button
+            android:fontFamily="@font/poppinsbold"
+            android:textFontWeight="800"
             android:layout_marginStart="10dp"
             android:singleLine="true"
             android:textAllCaps="false"

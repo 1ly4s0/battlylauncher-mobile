@@ -322,7 +322,7 @@
     <string name="dialog_package_description_title">整合包描述</string>
     <string name="dialog_package_description_positive">確定</string>
     <string name="dialog_package_manual_warn_title">安裝整合包</string>
-    <string name="dialog_package_manual_warn_msg">您大概需要直接解壓該整合包，並使用其自帶的啟動器即可開始遊戲，而不需要導入整合包！該整合包不是由啟動器導出的整合包，而是人工打包 .minecraft 文件夾而來的，這類整合包通常附帶遊戲啟動器。 HMCL-PE 可以嘗試導入該整合包，但不保證可用性，是否繼續？</string>
+    <string name="dialog_package_manual_warn_msg">您大概需要直接解壓該整合包，並使用其自帶的啟動器即可開始遊戲，而不需要導入整合包！該整合包不是由啟動器導出的整合包，而是人工打包 .minecraft 文件夾而來的，這類整合包通常附帶遊戲啟動器。 Battly Launcher 可以嘗試導入該整合包，但不保證可用性，是否繼續？</string>
     <string name="dialog_package_manual_warn_positive">是</string>
     <string name="dialog_package_manual_warn_negative">否</string>
     <string name="dialog_package_not_support_title">錯誤</string>
@@ -331,8 +331,8 @@
     <string name="export_package_type_ui_title">導出整合包嚮導 - 選擇整合包導出類型</string>
     <string name="export_package_type_ui_sub_title">請選擇整合包類型（若無法決定，請選擇我的世界中文論壇整合包標準）</string>
     <string name="export_package_type_ui_mcbbs">我的世界中文論壇整合包標準</string>
-    <string name="export_package_type_ui_mcbbs_sub">可以被 HMCL/HMCL-PE 和 MultiMC 導入</string>
-    <string name="export_package_type_ui_multimc_sub">可以被 HMCL/HMCL-PE 和 MultiMC 導入</string>
+    <string name="export_package_type_ui_mcbbs_sub">可以被 HMCL/Battly Launcher 和 MultiMC 導入</string>
+    <string name="export_package_type_ui_multimc_sub">可以被 HMCL/Battly Launcher 和 MultiMC 導入</string>
     <string name="export_package_type_ui_server">服務器自動更新整合包</string>
     <string name="export_package_type_ui_server_sub">允許服務器管理員遠程更新遊戲客戶端</string>
     <string name="export_package_info_ui_title">導出整合包嚮導 - 設置整合包的主要信息</string>
@@ -623,7 +623,7 @@
     <string name="game_setting_ui_game_launcher_hint">推薦使用 Boat 啟動器。</string>
     <string name="game_setting_ui_boat_renderer">Boat 渲染方式</string>
     <string name="game_setting_ui_pojav_renderer">PojavLauncher 渲染方式</string>
-    <string name="universal_setting_ui_declare">Hello Minecraft! Launcher Pocket Edition 是一個免費、自由、開放源代碼的 Minecraft 啟動器。您的讚助將幫助 Hello Minecraft! Launcher Pocket Edition 獲得更好的發展，還可以獲得 HMCL-PE 的開發進展。</string>
+    <string name="universal_setting_ui_declare">Hello Minecraft! Launcher Pocket Edition 是一個免費、自由、開放源代碼的 Minecraft 啟動器。您的讚助將幫助 Hello Minecraft! Launcher Pocket Edition 獲得更好的發展，還可以獲得 Battly Launcher 的開發進展。</string>
     <string name="universal_setting_ui_update">啟動器更新</string>
     <string name="universal_setting_ui_update_state_latest">當前版本為最新版本</string>
     <string name="universal_setting_ui_update_state_update">檢測到新版本</string>
@@ -674,10 +674,10 @@
     <string name="download_setting_ui_download_alert">提示</string>
     <string name="download_setting_ui_download_alert_text">並發數過大可能導致系統卡頓。你的下載速度會受到寬帶運營商、服務器等方面的影響，調大下載並發數不一定能大幅提升總下載速度。</string>
     <string name="feedback_ui_github_issues">前往 Github 反饋</string>
-    <string name="donate_ui_text">Hello Minecraft! Launcher Pocket Edition 是一個免費、自由、開放源代碼的 Minecraft 啟動器。您的讚助將幫助 Hello Minecraft! Launcher Pocket Edition 獲得更好的發展，還可以獲得 HMCL-PE 的開發進展。點擊此處查閱更多詳細信息。</string>
+    <string name="donate_ui_text">Hello Minecraft! Launcher Pocket Edition 是一個免費、自由、開放源代碼的 Minecraft 啟動器。您的讚助將幫助 Hello Minecraft! Launcher Pocket Edition 獲得更好的發展，還可以獲得 Battly Launcher 的開發進展。點擊此處查閱更多詳細信息。</string>
     <string name="dialog_manage_controller_title">管理觸控佈局方案</string>
     <string name="drawer_custom_menu_warn">你需要先創建或選擇一個子佈局</string>
-    <string name="dialog_hin2n_help_text">主機玩家（房主）： 你需要在先啟動遊戲，並進入一個存檔作為聯機世界，然後在遊戲內菜單中選擇 對局域網開放 選項，記住你的端口號，接下來打開 HMCL-PE 控制面板，打開聯機模塊菜單，點擊創建房間，確認顯示的端口號與遊戲提示的一致，然後確認並開房，房間開啟後，你將可以點擊房間信息以查看你的邀請碼和服務器地址，你需要將它們發送給你的聯機夥伴。注意，請不要將 邀請碼，ip，端口 告訴任何陌生人。成員玩家： 你需要向主機玩家（房主）索要邀請碼和 服務器地址，然後打開 HMCL-PE 控制面板，打開聯機模塊菜單，點擊加入房間，輸入你的邀請碼，點擊確定即可，接下來啟動遊戲，在遊戲的多人遊戲板塊中添加服務器，服務器名稱任意，服務器地址填寫房主提供的服務器地址，即可加入服務器。</string>
+    <string name="dialog_hin2n_help_text">主機玩家（房主）： 你需要在先啟動遊戲，並進入一個存檔作為聯機世界，然後在遊戲內菜單中選擇 對局域網開放 選項，記住你的端口號，接下來打開 Battly Launcher 控制面板，打開聯機模塊菜單，點擊創建房間，確認顯示的端口號與遊戲提示的一致，然後確認並開房，房間開啟後，你將可以點擊房間信息以查看你的邀請碼和服務器地址，你需要將它們發送給你的聯機夥伴。注意，請不要將 邀請碼，ip，端口 告訴任何陌生人。成員玩家： 你需要向主機玩家（房主）索要邀請碼和 服務器地址，然後打開 Battly Launcher 控制面板，打開聯機模塊菜單，點擊加入房間，輸入你的邀請碼，點擊確定即可，接下來啟動遊戲，在遊戲的多人遊戲板塊中添加服務器，服務器名稱任意，服務器地址填寫房主提供的服務器地址，即可加入服務器。</string>
     <string name="drawer_custom_menu_add_view">添加</string>
     <string name="drawer_custom_menu_view">添加控件</string>
     <string name="drawer_custom_menu_current_child">當前子佈局</string>
@@ -727,7 +727,7 @@
     <string name="drawer_game_menu_type_bar">側邊欄</string>
     <string name="drawer_game_menu_type_float">懸浮窗</string>
     <string name="drawer_game_menu_type">控制面板呼出方式</string>
-    <string name="drawer_game_menu_title">HMCL-PE 控制面板</string>
+    <string name="drawer_game_menu_title">Battly Launcher 控制面板</string>
     <string name="dialog_force_exit_negative">取消</string>
     <string name="dialog_force_exit_positive">確認</string>
     <string name="dialog_hin2n_help_positive">確認</string>
@@ -789,7 +789,7 @@
     <string name="dialog_manage_controller_export_dialog">正在導出本地布局方案…</string>
     <string name="dialog_manage_controller_import_dialog">正在導入觸控布局方案…</string>
     <string name="dialog_manage_controller_import_exist">您導入的布局方案已存在！</string>
-    <string name="dialog_manage_controller_import_error">導入失敗，請檢查文件是否為HMCL-PE布局文件</string>
+    <string name="dialog_manage_controller_import_error">導入失敗，請檢查文件是否為Battly Launcher布局文件</string>
     <string name="dialog_manage_controller_import_warn">當前版本啟動器不支持您導入的布局方案，如果強行導入，可能會造成崩潰，是否繼續？</string>
     <string name="dialog_create_control_pattern_title">創建新的布局方案</string>
     <string name="dialog_create_control_pattern_title_sec">編輯布局方案信息</string>
@@ -929,7 +929,7 @@
     <string name="dialog_delete_button_positive">刪除</string>
     <string name="ui_about_thank">鳴謝</string>
     <string name="ui_about_cosine_sub">提供大量技術支持</string>
-    <string name="ui_about_tsaltedfishking_sub">提供 HMCL-PE 官網模板</string>
+    <string name="ui_about_tsaltedfishking_sub">提供 Battly Launcher 官網模板</string>
     <string name="ui_about_hmcl_main">HMCL 開發團隊及所有貢獻者</string>
     <string name="ui_about_hmcl_sub">本項目大量借鑒 HMCL</string>
     <string name="ui_about_bangbang93_sub">提供 BMCLAPI 下載源，請讚助支持 BMCLAPI！</string>

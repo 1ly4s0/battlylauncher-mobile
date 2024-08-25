@@ -152,50 +152,52 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:layout_marginTop="5dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:orientation="horizontal">
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
 
                     <RadioButton
+                        android:id="@+id/check_skin_little"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_gravity="center"
-                        android:id="@+id/check_skin_little"/>
+                        android:layout_gravity="center" />
 
                     <TextView
-                        android:singleLine="true"
-                        android:layout_marginStart="5dp"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
+                        android:layout_marginStart="5dp"
+                        android:singleLine="true"
                         android:text="@string/dialog_offline_skin_little_skin"
-                        android:textSize="@dimen/text_size_middle"
-                        android:textColor="@color/colorPureBlack"/>
+                        android:textColor="@color/colorPureBlack"
+                        android:textSize="@dimen/text_size_middle" />
 
                 </LinearLayout>
 
                 <LinearLayout
-                    android:layout_marginTop="5dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:orientation="horizontal">
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
 
                     <RadioButton
+                        android:id="@+id/check_skin_blessing"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_gravity="center"
-                        android:id="@+id/check_skin_blessing"/>
+                        android:layout_gravity="center" />
 
                     <TextView
-                        android:singleLine="true"
-                        android:layout_marginStart="5dp"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
+                        android:layout_marginStart="5dp"
+                        android:singleLine="true"
                         android:text="@string/dialog_offline_skin_blessing_skin"
-                        android:textSize="@dimen/text_size_middle"
-                        android:textColor="@color/colorPureBlack"/>
+                        android:textColor="@color/colorPureBlack"
+                        android:textSize="@dimen/text_size_middle" />
 
                 </LinearLayout>
 
@@ -384,57 +386,58 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
+            android:layout_height="wrap_content">
 
             <View
                 android:layout_width="0dp"
                 android:layout_height="0dp"
-                android:layout_weight="1"/>
+                android:layout_weight="1" />
 
             <ImageView
+                android:visibility="gone"
                 android:layout_width="16dp"
                 android:layout_height="16dp"
-                android:background="@drawable/ic_baseline_jump_black"
-                android:layout_gravity="center"/>
+                android:layout_gravity="center"
+                android:background="@drawable/ic_baseline_jump_black" />
 
             <TextView
-                android:singleLine="true"
+                android:visibility="gone"
                 android:id="@+id/little_skin_url"
-                android:layout_marginStart="5dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:textColor="@color/colorLinkBlue"
+                android:layout_marginStart="5dp"
+                android:singleLine="true"
                 android:text="@string/dialog_offline_skin_url"
+                android:textColor="@color/colorLinkBlue"
                 android:textSize="@dimen/text_size_middle" />
 
             <Button
-                android:singleLine="true"
-                android:textAllCaps="false"
-                android:layout_marginStart="12dp"
+                android:id="@+id/edit_skin_positive"
                 android:layout_width="60dp"
                 android:layout_height="36dp"
                 android:layout_gravity="center"
-                android:gravity="center"
-                android:text="@string/dialog_offline_skin_confirm"
-                android:textSize="@dimen/text_size_middle"
-                android:textColor="@color/colorLinkBlue"
+                android:layout_marginStart="12dp"
                 android:background="@drawable/launcher_button_parent"
-                android:id="@+id/edit_skin_positive"/>
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/dialog_offline_skin_confirm"
+                android:textAllCaps="false"
+                android:textColor="@color/colorLinkBlue"
+                android:textSize="@dimen/text_size_middle" />
 
             <Button
-                android:singleLine="true"
-                android:textAllCaps="false"
+                android:id="@+id/cancel_edit_skin"
                 android:layout_width="60dp"
                 android:layout_height="36dp"
                 android:layout_gravity="center"
-                android:gravity="center"
-                android:text="@string/dialog_offline_skin_cancel"
-                android:textSize="@dimen/text_size_middle"
-                android:textColor="@color/colorPureBlack"
                 android:background="@drawable/launcher_button_parent"
-                android:id="@+id/cancel_edit_skin"/>
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/dialog_offline_skin_cancel"
+                android:textAllCaps="false"
+                android:textColor="@color/colorPureBlack"
+                android:textSize="@dimen/text_size_middle" />
 
         </LinearLayout>
 

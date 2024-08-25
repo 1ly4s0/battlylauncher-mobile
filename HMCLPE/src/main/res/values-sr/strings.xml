@@ -331,8 +331,8 @@
     <string name="export_package_type_ui_title">Modpack Čarobnjak za izvoz - Izaberite tip modpacka koji želite da izvezete.</string>
     <string name="export_package_type_ui_sub_title">Izvadite modpak kao…</string>
     <string name="export_package_type_ui_mcbbs">MCBBS Tip</string>
-    <string name="export_package_type_ui_mcbbs_sub">Može da bude importovano od strane HMCL/HMCL-PE i MultiMC</string>
-    <string name="export_package_type_ui_multimc_sub">I može da bude importovano od strane HMCL/HMCL-PE and MultiMC</string>
+    <string name="export_package_type_ui_mcbbs_sub">Može da bude importovano od strane HMCL/Battly Launcher i MultiMC</string>
+    <string name="export_package_type_ui_multimc_sub">I može da bude importovano od strane HMCL/Battly Launcher and MultiMC</string>
     <string name="export_package_type_ui_server_sub">Dozvoljava Server vlasnicima da ažuriraju istance igre preko interneta</string>
     <string name="export_package_type_ui_server">automatski ažuriraj Modpack sa Servera</string>
     <string name="export_package_info_ui_title">Modpack Export Wizard - jednostavne postavke za modpack.</string>
@@ -675,7 +675,7 @@
     <string name="dialog_manage_controller_export_dialog">Izvoženje…</string>
     <string name="dialog_manage_controller_import_dialog">Uvoženje…</string>
     <string name="dialog_manage_controller_import_exist">Vaš uvezeni obrazac izgleda već postoji!</string>
-    <string name="dialog_manage_controller_import_error">Uvoz nije uspeo, proverite da li je datoteka HMCL-PE datoteka izgleda</string>
+    <string name="dialog_manage_controller_import_error">Uvoz nije uspeo, proverite da li je datoteka Battly Launcher datoteka izgleda</string>
     <string name="dialog_manage_controller_import_warn">Trenutna verzija pokretača ne podržava obrazac izgleda koji ste uvezli. Ako prisilite uvoz, može se srušiti. Da li želite da nastavite?</string>
     <string name="dialog_create_control_pattern_title">Kreirajte novi obrazac izgleda</string>
     <string name="dialog_create_control_pattern_title_sec">Izmenite informacije o šablonu izgleda</string>
@@ -813,7 +813,7 @@
     <string name="dialog_create_rocker_style_negative">Otkaži</string>
     <string name="ui_about_thank">Hvala</string>
     <string name="ui_about_cosine_sub">Za pružanje velike tehničke podrške.</string>
-    <string name="ui_about_tsaltedfishking_sub">Za pružanje HMCL-PE šablona zvaničnog veb sajta.</string>
+    <string name="ui_about_tsaltedfishking_sub">Za pružanje Battly Launcher šablona zvaničnog veb sajta.</string>
     <string name="ui_about_hmcl_main">HMCL razvojni tim i svi saradnici</string>
     <string name="ui_about_hmcl_sub">Ovaj projekat se u velikoj meri oslanja na HMCL.</string>
     <string name="ui_about_bangbang93_sub">Da biste obezbedili BMCLAPI API za preuzimanje, razmislite o donaciji.</string>
@@ -879,7 +879,7 @@
     <string name="dialog_force_exit_message">Da li želite da na silu odustanete?</string>
     <string name="dialog_force_exit_positive">Da</string>
     <string name="dialog_force_exit_negative">NE</string>
-    <string name="drawer_game_menu_title">HMCL-PE Kontrolna tabla</string>
+    <string name="drawer_game_menu_title">Battly Launcher Kontrolna tabla</string>
     <string name="drawer_game_menu_type">Kontrolna tabla</string>
     <string name="drawer_game_menu_type_float">Plutajući prozor</string>
     <string name="drawer_game_menu_type_bar">Bočna traka</string>
@@ -927,7 +927,7 @@
     <string name="drawer_custom_menu_current_child">Trenurni dečji izgled</string>
     <string name="drawer_custom_menu_view">dodaj pogled</string>
     <string name="drawer_custom_menu_add_view">dodaj</string>
-    <string name="dialog_hin2n_help_text">Prvo morate da pokrenete igru, unesete arhivu kao onlajn svet, a zatim jela u igri Izaberite opciju otvaranja za LAN, zapamtite broj porta, a zatim otvorite HMCL-PE Control panel, otvorite onlajn modula, kliknite da biste kreirali sobu, potvrdite prikazani broj porta i obiđite. Scena će biti dosledna, a zatim potvrdite sobu i otvorite sobu. Nakon što se soba otvori, moći ćete da kliknete na informacije o sobi Da biste videli svoj pozivni kod i IP+port, potrebno je da ih pošaljete svom onlajn partneru. Napomena Znači, nemojte reći šifru pozivnice, ip, port da kažete bilo kom strancu.\n\nČlan plejera: Morate da zamolite igrača domaćina da zatraži kod za pozivnicu i IP+port, a zatim otvorite HMCL-PE kontrolu panel, uključite meni modula na mreži, kliknite da biste se pridružili prostoriji, unesite svoj pozivni kod, kliknite Samo odredi, započnite sledeću igru, dodajte server u sektor igre za više igrača i poslužite Ime servisnog uređaja je proizvoljno, a adresa servera se popunjava u IP+portu koji je obezbedio vlasnik kuće, a server se može dodati.</string>
+    <string name="dialog_hin2n_help_text">Prvo morate da pokrenete igru, unesete arhivu kao onlajn svet, a zatim jela u igri Izaberite opciju otvaranja za LAN, zapamtite broj porta, a zatim otvorite Battly Launcher Control panel, otvorite onlajn modula, kliknite da biste kreirali sobu, potvrdite prikazani broj porta i obiđite. Scena će biti dosledna, a zatim potvrdite sobu i otvorite sobu. Nakon što se soba otvori, moći ćete da kliknete na informacije o sobi Da biste videli svoj pozivni kod i IP+port, potrebno je da ih pošaljete svom onlajn partneru. Napomena Znači, nemojte reći šifru pozivnice, ip, port da kažete bilo kom strancu.\n\nČlan plejera: Morate da zamolite igrača domaćina da zatraži kod za pozivnicu i IP+port, a zatim otvorite Battly Launcher kontrolu panel, uključite meni modula na mreži, kliknite da biste se pridružili prostoriji, unesite svoj pozivni kod, kliknite Samo odredi, započnite sledeću igru, dodajte server u sektor igre za više igrača i poslužite Ime servisnog uređaja je proizvoljno, a adresa servera se popunjava u IP+portu koji je obezbedio vlasnik kuće, a server se može dodati.</string>
     <string name="drawer_custom_menu_warn">Prvo morate da kreirate ili izaberete podizgled</string>
     <string name="feedback_ui_join_discord">Pridruži nam se na Discord-u</string>
 </resources>

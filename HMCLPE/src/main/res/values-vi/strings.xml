@@ -372,7 +372,7 @@
     <string name="dialog_force_exit_positive">Đúng</string>
     <string name="dialog_force_exit_title">Thông tin</string>
     <string name="dialog_hin2n_help_positive">ĐƯỢC RỒI</string>
-    <string name="dialog_hin2n_help_text">"Chủ: Trước tiên, bạn cần bắt đầu trò chơi, nhập kho lưu trữ dưới dạng thế giới trực tuyến, sau đó chọn các món ăn trong trò chơi Chọn tùy chọn mở cho mạng LAN, ghi nhớ số cổng của bạn, sau đó mở Bảng điều khiển HMCL-PE, mở menu mô-đun trực tuyến , bấm để tạo phòng, xác nhận số cổng được hiển thị và tham quan Cảnh nhắc nhất quán, sau đó xác nhận phòng và mở phòng. Sau khi phòng được mở, bạn sẽ có thể nhấp vào thông tin phòng Để xem mã mời và cổng IP +, bạn cần gửi chúng cho đối tác trực tuyến của mình. Lưu ý Vui lòng không nói mã mời, ip, port cho bất kỳ người lạ nào.\n\nNgười tham gia: Bạn cần yêu cầu người chơi chủ nhà hỏi mã lời mời và cổng IP +, sau đó mở Bảng điều khiển HMCL-PE, bật menu mô-đun trực tuyến, nhấp để tham gia phòng, nhập mã mời của bạn, nhấp vào Chỉ cần xác định, bắt đầu trò chơi tiếp theo, thêm máy chủ vào khu vực trò chơi nhiều người chơi của trò chơi và phục vụ Tên của thiết bị dịch vụ là tùy ý và địa chỉ máy chủ được điền vào cổng IP + do chủ cung cấp và máy chủ có thể được thêm vào."</string>
+    <string name="dialog_hin2n_help_text">"Chủ: Trước tiên, bạn cần bắt đầu trò chơi, nhập kho lưu trữ dưới dạng thế giới trực tuyến, sau đó chọn các món ăn trong trò chơi Chọn tùy chọn mở cho mạng LAN, ghi nhớ số cổng của bạn, sau đó mở Bảng điều khiển Battly Launcher, mở menu mô-đun trực tuyến , bấm để tạo phòng, xác nhận số cổng được hiển thị và tham quan Cảnh nhắc nhất quán, sau đó xác nhận phòng và mở phòng. Sau khi phòng được mở, bạn sẽ có thể nhấp vào thông tin phòng Để xem mã mời và cổng IP +, bạn cần gửi chúng cho đối tác trực tuyến của mình. Lưu ý Vui lòng không nói mã mời, ip, port cho bất kỳ người lạ nào.\n\nNgười tham gia: Bạn cần yêu cầu người chơi chủ nhà hỏi mã lời mời và cổng IP +, sau đó mở Bảng điều khiển Battly Launcher, bật menu mô-đun trực tuyến, nhấp để tham gia phòng, nhập mã mời của bạn, nhấp vào Chỉ cần xác định, bắt đầu trò chơi tiếp theo, thêm máy chủ vào khu vực trò chơi nhiều người chơi của trò chơi và phục vụ Tên của thiết bị dịch vụ là tùy ý và địa chỉ máy chủ được điền vào cổng IP + do chủ cung cấp và máy chủ có thể được thêm vào."</string>
     <string name="dialog_hin2n_help_title">Trợ giúp</string>
     <string name="dialog_hin2n_menu_create">Tạo phiên</string>
     <string name="dialog_hin2n_menu_help">Trợ giúp</string>
@@ -439,7 +439,7 @@
     <string name="dialog_manage_controller_export_dialog">Exporting…</string>
     <string name="dialog_manage_controller_import">Nhập bố cục từ tệp cục bộ</string>
     <string name="dialog_manage_controller_import_dialog">Importing…</string>
-    <string name="dialog_manage_controller_import_error">Nhập không thành công, vui lòng kiểm tra xem tệp có phải là tệp bố cục HMCL-PE không</string>
+    <string name="dialog_manage_controller_import_error">Nhập không thành công, vui lòng kiểm tra xem tệp có phải là tệp bố cục Battly Launcher không</string>
     <string name="dialog_manage_controller_import_exist">Mẫu bố cục đã nhập của bạn đã tồn tại!</string>
     <string name="dialog_manage_controller_import_warn">Phiên bản hiện tại của trình khởi chạy không hỗ trợ mẫu bố cục bạn đã nhập. Nếu bạn bắt buộc nhập, nó có thể bị lỗi. Bạn có muốn tiếp tục?</string>
     <string name="dialog_manage_controller_title">Quản lý mẫu bố cục cảm ứng</string>
@@ -628,7 +628,7 @@
     <string name="drawer_game_menu_function_advance_input">Đầu vào nâng cao</string>
     <string name="drawer_game_menu_function_hin2n_menu">Menu nhiều người chơi</string>
     <string name="drawer_game_menu_function_hin2n_menu_open">Mở</string>
-    <string name="drawer_game_menu_title">Bảng điều khiển HMCL-PE</string>
+    <string name="drawer_game_menu_title">Bảng điều khiển Battly Launcher</string>
     <string name="drawer_game_menu_type">Bảng điều khiển</string>
     <string name="drawer_game_menu_type_bar">Thanh bên</string>
     <string name="drawer_game_menu_type_float">Cửa sổ nổi</string>
@@ -640,8 +640,8 @@
     <string name="export_package_info_ui_alert">Thông tin</string>
     <string name="export_package_info_ui_title">Modpack Export Wizard - Một số cài đặt cơ bản cho modpack.</string>
     <string name="export_package_type_ui_mcbbs">Loại MCBBS</string>
-    <string name="export_package_type_ui_mcbbs_sub">Có thể được nhập bằng HMCL / HMCL-PE và MultiMC</string>
-    <string name="export_package_type_ui_multimc_sub">Có thể được nhập bằng HMCL / HMCL-PE và MultiMC</string>
+    <string name="export_package_type_ui_mcbbs_sub">Có thể được nhập bằng HMCL / Battly Launcher và MultiMC</string>
+    <string name="export_package_type_ui_multimc_sub">Có thể được nhập bằng HMCL / Battly Launcher và MultiMC</string>
     <string name="export_package_type_ui_server">Tự động cập nhật Modpack từ Máy chủ</string>
     <string name="export_package_type_ui_server_sub">Cho phép chủ sở hữu máy chủ cập nhật phiên bản trò chơi từ xa</string>
     <string name="export_package_type_ui_sub_title">Xuất Modpack dưới dạng…</string>
@@ -893,7 +893,7 @@
     <string name="ui_about_mcmod_main">mcmod.cn</string>
     <string name="ui_about_mcmod_sub">Để cung cấp các bản dịch tiếng Trung và wiki cho các mod khác nhau.</string>
     <string name="ui_about_thank">Nhờ vào</string>
-    <string name="ui_about_tsaltedfishking_sub">Để cung cấp mẫu trang web chính thức HMCL-PE.</string>
+    <string name="ui_about_tsaltedfishking_sub">Để cung cấp mẫu trang web chính thức Battly Launcher.</string>
     <string name="universal_setting_ui_beta_describe">Cảnh báo: Phiên bản beta và phiên bản hàng đêm có thể có nhiều tính năng hoặc bản sửa lỗi hơn, nhưng chúng cũng đi kèm với nhiều vấn đề tiềm ẩn hơn.</string>
     <string name="universal_setting_ui_cache">Thư mục bộ nhớ đệm</string>
     <string name="universal_setting_ui_cache_custom">Phong tục</string>

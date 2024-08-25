@@ -1,20 +1,20 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name" translatable="false">HMCL-PE</string>
-    <string name="app_full_name" translatable="false">Hello Minecraft! Launcher : Pocket Edition</string>
-    <string name="app_name_pri" translatable="false">Hello Minecraft! Launcher</string>
-    <string name="app_name_sec" translatable="false">Pocket Edition</string>
-    <string name="version_name" translatable="false">v2.0.8</string>
-    <string name="app_bar_title" translatable="false">Hello Minecraft! Launcher Pocket Edition v2.0.8</string>
+    <string name="app_name" translatable="false">Battly Launcher</string>
+    <string name="app_full_name" translatable="false">Battly Launcher Mobile</string>
+    <string name="app_name_pri" translatable="false">Battly Launcher</string>
+    <string name="app_name_sec" translatable="false">El Launcher de Minecraft definitivo</string>
+    <string name="version_name" translatable="false">v1.0.0</string>
+    <string name="app_bar_title" translatable="false">Battly Launcher 1.0.0 (MOBILE)</string>
 
     <string name="dialog_outdated_warning_title">Warning</string>
-    <string name="dialog_outdated_warning_msg">HMCL-PE has stopped maintenance. If you want to run Minecraft: Java Edition on Android devices and get a better experience, please download FoldCraftLauncher or PojavLauncher.\nNote: If you have any problems when using other launchers, HMCL-dev is not responsible. Please ask the developer of the launcher you are using for help.</string>
+    <string name="dialog_outdated_warning_msg">Battly is a Minecraft launcher for premium and non-premium users to play Minecraft completely free. We show ads to keep the Launcher on both Android and PC. We take care of any damage Battly may do to your device.</string>
     <string name="dialog_outdated_warning_hide">Don\'t show again</string>
     <string name="dialog_outdated_warning_positive">Got it</string>
 
     <string name="launcher_spinner_text" translatable="false">▲</string>
     <string name="dialog_add_offline_account_uuid" translatable="false">UUID</string>
-    <string name="default_game_file_directory_list_pri_path" translatable="false">/storage/emulated/0/HMCLPE/.minecraft</string>
-    <string name="default_game_file_directory_list_sec_path" translatable="false">/storage/emulated/0/Android/data/com.tungsten.hmclpe/files/.minecraft</string>
+    <string name="default_game_file_directory_list_pri_path" translatable="false">/storage/emulated/0/BATTLY/.minecraft</string>
+    <string name="default_game_file_directory_list_sec_path" translatable="false">/storage/emulated/0/Android/data/com.tecnobros.battlylauncher/files/.minecraft</string>
     <string name="export_package_type_ui_multimc" translatable="false">MultiMC</string>
     <string name="install_game_ui_minecraft" translatable="false">Minecraft</string>
     <string name="install_game_ui_forge" translatable="false">Forge</string>
@@ -31,16 +31,16 @@
     <string name="download_resource_modrinth" translatable="false">Modrinth</string>
     <string name="game_setting_ui_ram" translatable="false">MB</string>
     <string name="game_setting_ui_game_launcher_boat" translatable="false">Boat</string>
-    <string name="game_setting_ui_game_launcher_pojav" translatable="false">PojavLauncher</string>
+    <string name="game_setting_ui_game_launcher_pojav" translatable="false">Legacy</string>
     <string name="game_setting_ui_boat_renderer_gl4es_114" translatable="false">Holy GL4ES (OpenGL 2.1/3.2)</string>
     <string name="game_setting_ui_boat_renderer_virgl" translatable="false">VirGLRenderer (OpenGL 4.3)</string>
     <string name="game_setting_ui_pojav_renderer_gl4es_114" translatable="false">Holy GL4ES (OpenGL 2.1/3.2)</string>
     <string name="game_setting_ui_pojav_renderer_virgl" translatable="false">VirGLRenderer (OpenGL 4.3)</string>
     <string name="dialog_color_selector_arrow" translatable="false">→</string>
     <string name="download_setting_ui_source_bmclapi" translatable="false">BMCLAPI（bangbang93，https://bmclapi2.bangbang93.com/）</string>
-    <string name="ui_about_hmclpe_main" translatable="false">Hello Minecraft! Launcher : Pocket Edition</string>
+    <string name="ui_about_hmclpe_main" translatable="false">Battly Launcher Mobile</string>
     <string name="ui_about_hmclpe_sub" translatable="false">1.0.0</string>
-    <string name="ui_about_tungsten_main" translatable="false">Tungsten</string>
+    <string name="ui_about_tungsten_main" translatable="false">TECNO BROS</string>
     <string name="ui_about_tungsten_sub" translatable="false">B 站 ID：@念小六</string>
     <string name="ui_about_shirosakimio_main" translatable="false">ShirosakiMio</string>
     <string name="ui_about_shirosakimio_sub" translatable="false">B 站 ID：@ShirosakiMio</string>
@@ -348,7 +348,7 @@
     <string name="download_ui_resource_pack">Resource Packs</string>
     <string name="download_ui_world">Worlds</string>
     <string name="download_minecraft_ui_hint">Information</string>
-    <string name="download_minecraft_ui_hint_text">Downloads are provided by BMCLAPI and MCBBS. Click here for more information.</string>
+    <string name="download_minecraft_ui_hint_text">Downloads are provided by Mojang</string>
     <string name="download_minecraft_ui_release">Releases</string>
     <string name="download_minecraft_ui_snapshot">Snapshots</string>
     <string name="download_minecraft_ui_old">Historical</string>
@@ -379,8 +379,8 @@
     <string name="export_package_type_ui_title">Modpack Export Wizard - Choose the modpack type you wanted to export as.</string>
     <string name="export_package_type_ui_sub_title">Export Modpack As…</string>
     <string name="export_package_type_ui_mcbbs">MCBBS Type</string>
-    <string name="export_package_type_ui_mcbbs_sub">Can be imported by HMCL/HMCL-PE and MultiMC</string>
-    <string name="export_package_type_ui_multimc_sub">Can be imported by HMCL/HMCL-PE and MultiMC</string>
+    <string name="export_package_type_ui_mcbbs_sub">Can be imported by HMCL/Battly Launcher and MultiMC</string>
+    <string name="export_package_type_ui_multimc_sub">Can be imported by HMCL/Battly Launcher and MultiMC</string>
     <string name="export_package_type_ui_server_sub">Allows server owner to update the game instance remotely</string>
     <string name="export_package_type_ui_server">Auto-Update Modpack from Server</string>
     <string name="export_package_info_ui_title">Modpack Export Wizard - Some basic settings for the modpack.</string>
@@ -670,8 +670,8 @@
     <string name="game_setting_ui_game_launcher">Game Launch</string>
     <string name="game_setting_ui_game_launcher_hint">Boat is recommended.</string>
     <string name="game_setting_ui_boat_renderer">Boat Renderer</string>
-    <string name="game_setting_ui_pojav_renderer">PojavLauncher Renderer</string>
-    <string name="universal_setting_ui_declare">Hello Minecraft! Launcher Pocket Edition is an Android Minecraft launcher which allows users to manage multiple Minecraft instances easily. You can donate to us on Afdian to support our file hosting and project development.</string>
+    <string name="game_setting_ui_pojav_renderer">Legacy Renderer</string>
+    <string name="universal_setting_ui_declare">Battly Launcher El Launcher de Minecraft definitivo is an Android Minecraft launcher which allows users to manage multiple Minecraft instances easily. You can donate to us on Afdian to support our file hosting and project development.</string>
     <string name="universal_setting_ui_update">Update</string>
     <string name="universal_setting_ui_update_state_latest">This is the latest version.</string>
     <string name="universal_setting_ui_update_state_update">Update Available!</string>
@@ -723,7 +723,7 @@
     <string name="download_setting_ui_download_alert_text">Too many threads may cause your system to freeze, and your download speed may be affected by your ISP and download servers. It is not always the case that more threads increase your download speed.</string>
     <string name="feedback_ui_join_discord">Join Discord</string>
     <string name="feedback_ui_github_issues">Go to Github</string>
-    <string name="donate_ui_text">Hello Minecraft! Launcher Pocket Edition is an Android Minecraft launcher which allows users to manage multiple Minecraft instances easily. You can donate to us on Afdian to support our file hosting and project development. Click here for more information.</string>
+    <string name="donate_ui_text">Battly Launcher El Launcher de Minecraft definitivo is an Android Minecraft launcher which allows users to manage multiple Minecraft instances easily. You can donate to us on Afdian to support our file hosting and project development. Click here for more information.</string>
     <string name="dialog_manage_controller_title">Manage Touch Layout Pattern</string>
     <string name="dialog_manage_controller_import">Import layout from local file</string>
     <string name="dialog_manage_controller_create">Create new layout pattern</string>
@@ -732,7 +732,7 @@
     <string name="dialog_manage_controller_export_dialog">Exporting…</string>
     <string name="dialog_manage_controller_import_dialog">Importing…</string>
     <string name="dialog_manage_controller_import_exist">Your imported layout pattern already exists!</string>
-    <string name="dialog_manage_controller_import_error">Import failed, please check if the file is a HMCL-PE layout file</string>
+    <string name="dialog_manage_controller_import_error">Import failed, please check if the file is a Battly Launcher layout file</string>
     <string name="dialog_manage_controller_import_warn">The current version of the launcher does not support the layout pattern you imported. If you force the import, it may crash. Do you want to continue?</string>
     <string name="dialog_create_control_pattern_title">Create new layout pattern</string>
     <string name="dialog_create_control_pattern_title_sec">Edit layout pattern info</string>
@@ -870,7 +870,7 @@
     <string name="dialog_create_rocker_style_negative">Cancel</string>
     <string name="ui_about_thank">Thanks to</string>
     <string name="ui_about_cosine_sub">For providing a lot of technical support.</string>
-    <string name="ui_about_tsaltedfishking_sub">For providing HMCL-PE official website template.</string>
+    <string name="ui_about_tsaltedfishking_sub">For providing Battly Launcher official website template.</string>
     <string name="ui_about_hmcl_main">HMCL development team and all contributors</string>
     <string name="ui_about_hmcl_sub">This project draws heavily on HMCL.</string>
     <string name="ui_about_bangbang93_sub">For providing BMCLAPI download API, please consider donating.</string>
@@ -936,7 +936,7 @@
     <string name="dialog_force_exit_message">Do you want to force quit?</string>
     <string name="dialog_force_exit_positive">Yes</string>
     <string name="dialog_force_exit_negative">No</string>
-    <string name="drawer_game_menu_title">HMCL-PE Control Panel</string>
+    <string name="drawer_game_menu_title">Battly Launcher Control Panel</string>
     <string name="drawer_game_menu_type">Control panel</string>
     <string name="drawer_game_menu_type_float">Floating window</string>
     <string name="drawer_game_menu_type_bar">Sidebar</string>
@@ -986,9 +986,10 @@
     <string name="drawer_custom_menu_current_child">Current child layout</string>
     <string name="drawer_custom_menu_view">Add view</string>
     <string name="drawer_custom_menu_add_view">Add</string>
-    <string name="dialog_hin2n_help_text">Host player: You need to start the game first, enter a archive as the online world, and then dishes in the game Select the opening option for the LAN, remember your port number, and then open the HMCL-PE Control panel, open the online module menu, click to create the room, confirm the displayed port number and tour The scene prompts consistent, and then confirm the room and open the room. After the room is opened, you will be able to click on the room information To view your invitation code and IP+port, you need to send them to your online partner. Note Mean, please do not tell the invitation code, ip, port telling any stranger.\n\nMember player: You need to ask the host player to ask for the invitation code and IP+port, and then open the HMCL-PE Control panel, turn on the online module menu, click to join the room, enter your invitation code, click Just determine, start the game next, add a server to the multiplayer game sector of the game, and serve The name of the service device is arbitrarily, and the server address is filled in the IP+port provided by the homeowner, and the server can be added.</string>
+    <string name="dialog_hin2n_help_text">Host player: You need to start the game first, enter a archive as the online world, and then dishes in the game Select the opening option for the LAN, remember your port number, and then open the Battly Launcher Control panel, open the online module menu, click to create the room, confirm the displayed port number and tour The scene prompts consistent, and then confirm the room and open the room. After the room is opened, you will be able to click on the room information To view your invitation code and IP+port, you need to send them to your online partner. Note Mean, please do not tell the invitation code, ip, port telling any stranger.\n\nMember player: You need to ask the host player to ask for the invitation code and IP+port, and then open the Battly Launcher Control panel, turn on the online module menu, click to join the room, enter your invitation code, click Just determine, start the game next, add a server to the multiplayer game sector of the game, and serve The name of the service device is arbitrarily, and the server address is filled in the IP+port provided by the homeowner, and the server can be added.</string>
     <string name="drawer_custom_menu_warn">You need to create or select a sublayout first</string>
 	<string name="feedback_ui_join_qq_channel">Join QQ Channel</string>
+    <string name="dialog_add_offline_account_failed">Usuario o contraseña incorrectos</string>
 
 
 </resources>

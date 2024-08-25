@@ -331,8 +331,8 @@
     <string name="export_package_type_ui_title">Modpack Export Wizard - Choose the modpack type you wanted to export as.</string>
     <string name="export_package_type_ui_sub_title">Export Modpack As…</string>
     <string name="export_package_type_ui_mcbbs">MCBBS Type</string>
-    <string name="export_package_type_ui_mcbbs_sub">Can be imported by HMCL/HMCL-PE and MultiMC</string>
-    <string name="export_package_type_ui_multimc_sub">Can be imported by HMCL/HMCL-PE and MultiMC</string>
+    <string name="export_package_type_ui_mcbbs_sub">Can be imported by HMCL/Battly Launcher and MultiMC</string>
+    <string name="export_package_type_ui_multimc_sub">Can be imported by HMCL/Battly Launcher and MultiMC</string>
     <string name="export_package_type_ui_server_sub">Allows server owner to update the game instance remotely</string>
     <string name="export_package_type_ui_server">Auto-Update Modpack from Server</string>
     <string name="export_package_info_ui_title">Modpack Export Wizard - Some basic settings for the modpack.</string>
@@ -670,8 +670,8 @@
     <string name="download_setting_ui_download_num">Threads</string>
     <string name="download_setting_ui_download_alert">Information</string>
     <string name="download_setting_ui_download_alert_text">Too many threads may cause your system to freeze, and your download speed may be affected by your ISP and download servers. It is not always the case that more threads increase your download speed.</string>
-    <string name="feedback_ui_github_issues">Go to Github</string>
-    <string name="donate_ui_text">Hello Minecraft! Launcher Pocket Edition is an Android Minecraft launcher which allows users to manage multiple Minecraft instances easily. You can donate to us on Afdian to support our file hosting and project development. Click here for more information.</string>
+    <string name="feedback_ui_github_issues">Official Battly Website</string>
+    <string name="donate_ui_text">Battly is a Minecraft launcher for premium and non-premium users to play Minecraft completely free. Remember that you can make donations to support the project and keep it in development, click here.</string>
     <string name="dialog_manage_controller_title">Manage Touch Layout Pattern</string>
     <string name="dialog_manage_controller_import">Import layout from local file</string>
     <string name="dialog_manage_controller_create">Create new layout pattern</string>
@@ -680,7 +680,7 @@
     <string name="dialog_manage_controller_export_dialog">Exporting…</string>
     <string name="dialog_manage_controller_import_dialog">Importing…</string>
     <string name="dialog_manage_controller_import_exist">Your imported layout pattern already exists!</string>
-    <string name="dialog_manage_controller_import_error">Import failed, please check if the file is a HMCL-PE layout file</string>
+    <string name="dialog_manage_controller_import_error">Import failed, please check if the file is a Battly Launcher layout file</string>
     <string name="dialog_manage_controller_import_warn">The current version of the launcher does not support the layout pattern you imported. If you force the import, it may crash. Do you want to continue?</string>
     <string name="dialog_create_control_pattern_title">Create new layout pattern</string>
     <string name="dialog_create_control_pattern_title_sec">Edit layout pattern info</string>
@@ -818,7 +818,7 @@
     <string name="dialog_create_rocker_style_negative">Cancel</string>
     <string name="ui_about_thank">Thanks to</string>
     <string name="ui_about_cosine_sub">For providing a lot of technical support.</string>
-    <string name="ui_about_tsaltedfishking_sub">For providing HMCL-PE official website template.</string>
+    <string name="ui_about_tsaltedfishking_sub">For providing Battly Launcher official website template.</string>
     <string name="ui_about_hmcl_main">HMCL development team and all contributors</string>
     <string name="ui_about_hmcl_sub">This project draws heavily on HMCL.</string>
     <string name="ui_about_bangbang93_sub">For providing BMCLAPI download API, please consider donating.</string>
@@ -884,7 +884,7 @@
     <string name="dialog_force_exit_message">Do you want to force quit?</string>
     <string name="dialog_force_exit_positive">Yes</string>
     <string name="dialog_force_exit_negative">No</string>
-    <string name="drawer_game_menu_title">HMCL-PE Control Panel</string>
+    <string name="drawer_game_menu_title">Battly Launcher Control Panel</string>
     <string name="drawer_game_menu_type">Control panel</string>
     <string name="drawer_game_menu_type_float">Floating window</string>
     <string name="drawer_game_menu_type_bar">Sidebar</string>
@@ -934,11 +934,12 @@
     <string name="drawer_custom_menu_current_child">Current child layout</string>
     <string name="drawer_custom_menu_view">Add view</string>
     <string name="drawer_custom_menu_add_view">Add</string>
-    <string name="dialog_hin2n_help_text">Host player: You need to start the game first, enter a archive as the online world, and then dishes in the game Select the opening option for the LAN, remember your port number, and then open the HMCL-PE Control panel, open the online module menu, click to create the room, confirm the displayed port number and tour The scene prompts consistent, and then confirm the room and open the room. After the room is opened, you will be able to click on the room information To view your invitation code and IP+port, you need to send them to your online partner. Note Mean, please do not tell the invitation code, ip, port telling any stranger.\n\nMember player: You need to ask the host player to ask for the invitation code and IP+port, and then open the HMCL-PE Control panel, turn on the online module menu, click to join the room, enter your invitation code, click Just determine, start the game next, add a server to the multiplayer game sector of the game, and serve The name of the service device is arbitrarily, and the server address is filled in the IP+port provided by the homeowner, and the server can be added.</string>
+    <string name="dialog_hin2n_help_text">Host player: You need to start the game first, enter a archive as the online world, and then dishes in the game Select the opening option for the LAN, remember your port number, and then open the Battly Launcher Control panel, open the online module menu, click to create the room, confirm the displayed port number and tour The scene prompts consistent, and then confirm the room and open the room. After the room is opened, you will be able to click on the room information To view your invitation code and IP+port, you need to send them to your online partner. Note Mean, please do not tell the invitation code, ip, port telling any stranger.\n\nMember player: You need to ask the host player to ask for the invitation code and IP+port, and then open the Battly Launcher Control panel, turn on the online module menu, click to join the room, enter your invitation code, click Just determine, start the game next, add a server to the multiplayer game sector of the game, and serve The name of the service device is arbitrarily, and the server address is filled in the IP+port provided by the homeowner, and the server can be added.</string>
     <string name="drawer_custom_menu_warn">You need to create or select a sublayout first</string>
     <string name="feedback_ui_join_discord">Join Discord</string>
     <string name="feedback_ui_join_qq_channel">Join QQ Channel</string>
     <string name="quilt_api_list_ui_title">Add a New Instance - Choose Your Quilt API Version</string>
     <string name="quilt_list_ui_title">Add a New Instance - Choose Your Quilt Version</string>
     <string name="install_game_ui_quilt_not_compatible">Incompatible with Quilt</string>
+    <string name="dialog_add_offline_account_failed">Usuario o contraseña incorrectos</string>
 </resources>
